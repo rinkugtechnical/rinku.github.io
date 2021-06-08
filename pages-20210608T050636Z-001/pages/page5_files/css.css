@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&display=swap');
+
+
+
+*{   
+	
+	box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.h4{
+	margin: 20px;
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.h3{
+	margin: 15px;
+	margin-bottom: 17px;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.para{
+	padding: 40px;
+	font-size: 18px;
+	text-transform: capitalize;
+	margin-bottom: 10px;
+	word-spacing: 2px;
+	font-family: 'EB Garamond', serif;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: bold;
+	margin: 15px;
+}
+
+
+.h4{
+	font-size: 20px;
+	font-family: 'Josefin Sans', sans-serif;
+	margin: 15px;
+
+}
+
+ ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 10px;
+  }
+
+.backimg{
+	 display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 10px;
+}
